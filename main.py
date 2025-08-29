@@ -199,3 +199,5 @@ max_count = max(letter_count.values())
 for letter, count in letter_count.items():
     if count == 1:
         print(f"{letter} : {count}")
+
+      
